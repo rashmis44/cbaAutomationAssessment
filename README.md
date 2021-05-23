@@ -1,4 +1,7 @@
 # Webdriverio-Test
+Problem Description:
+Create a selenium script in java with test cases covering different values for Home Loan repayment and validate the total loan repayment and total interest repayment. You can access https://www.commbank.com.au and then click on "Home Loan repayment calculator" to identify the online calculator.
+
 To execute:
 How to start using this?
 1. Clone/Download the repo
